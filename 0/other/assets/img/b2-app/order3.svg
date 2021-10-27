@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-3</title>
+    <defs>
+        <linearGradient x1="20.8222581%" y1="16.5485968%" x2="65.2834545%" y2="84.7235063%" id="linearGradient-1">
+            <stop stop-color="#0091FF" offset="0%"></stop>
+            <stop stop-color="#2F80ED" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13,14 L13,20.2149018 C13,20.4910442 13.2238576,20.7149018 13.5,20.7149018 C13.5730616,20.7149018 13.6452355,20.6988901 13.7114427,20.6679934 L15.7885573,19.6986733 C15.9225814,19.6361287 16.0774186,19.6361287 16.2114427,19.6986733 L18.2885573,20.6679934 C18.5387928,20.78477 18.836315,20.6765801 18.9530916,20.4263446 C18.9839883,20.3601374 19,20.2879634 19,20.2149018 L19,14 L19,14 L13,14 Z" id="path-2"></path>
+        <filter x="-91.7%" y="-50.0%" width="283.3%" height="253.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.124613582   0 0 0 0 0.456835937   0 0 0 0 0.903900589  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="4-我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-0-1我的" transform="translate(-127.000000, -298.000000)">
+            <g id="2" transform="translate(12.000000, 237.000000)">
+                <g id="icon-3" transform="translate(115.000000, 61.000000)">
+                    <rect id="bg" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="31" height="31"></rect>
+                    <path d="M28,13.5 L28,24 C28,26.209139 26.209139,28 24,28 L8,28 C5.790861,28 4,26.209139 4,24 L4,13.5 L28,13.5 Z M4,10 C4,7.790861 5.790861,6 8,6 L24,6 C26.209139,6 28,7.790861 28,10 L28,12 L4,12 L4,10 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                    <g id="路径-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-940.000000, -492.000000)">
+            <g id="我的-列表icon" transform="translate(616.000000, 492.000000)">
+                <g id="7" transform="translate(324.000000, 0.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0.00118582589" x="0" y="0" width="24" height="24"></rect>
+                    <circle id="椭圆形" stroke="#666666" stroke-width="1.5" cx="12" cy="12" r="9"></circle>
+                    <polygon id="矩形" stroke="#999999" stroke-width="1.5" stroke-linejoin="round" transform="translate(12.000000, 12.000000) scale(-1, 1) rotate(-355.000000) translate(-12.000000, -12.000000) " points="8 8 13.8321874 10.1678126 16 16 10.1678126 13.8321874"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

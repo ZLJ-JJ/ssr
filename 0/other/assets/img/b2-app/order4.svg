@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-1</title>
+    <defs>
+        <linearGradient x1="20.8222581%" y1="19.520519%" x2="65.2834545%" y2="81.6385666%" id="linearGradient-1">
+            <stop stop-color="#0091FF" offset="0%"></stop>
+            <stop stop-color="#2F80ED" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="20" y="13" width="10" height="7" rx="3.5"></rect>
+        <filter x="-50.0%" y="-57.1%" width="200.0%" height="242.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.271639418   0 0 0 0 0.553129027   0 0 0 0 0.931923687  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="4-我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-0-1我的" transform="translate(-38.000000, -298.000000)">
+            <g id="2" transform="translate(12.000000, 237.000000)">
+                <g id="icon-1" transform="translate(26.000000, 61.000000)">
+                    <rect id="bg" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="31" height="31"></rect>
+                    <path d="M8,6 L24,6 C26.209139,6 28,7.790861 28,10 L28,23 C28,25.209139 26.209139,27 24,27 L8,27 C5.790861,27 4,25.209139 4,23 L4,10 C4,7.790861 5.790861,6 8,6 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <g id="矩形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <circle id="椭圆形" fill="#2F80ED" cx="24.5" cy="16.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-670.000000, -492.000000)">
+            <g id="我的-列表icon" transform="translate(616.000000, 492.000000)">
+                <g id="3" transform="translate(54.000000, 0.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <g id="icon" transform="translate(3.000000, 1.000000)">
+                        <path d="M5.02504356,3.27072223 L13.1961524,3 L13.1961524,3 L2.80384758,9 L3.09694987,5.11900926 C3.17382043,4.10116012 4.00485559,3.30452273 5.02504356,3.27072223 Z" id="矩形" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" transform="translate(8.000000, 6.000000) rotate(-330.000000) translate(-8.000000, -6.000000) "></path>
+                        <path d="M16,6 C17.1045695,6 18,6.8954305 18,8 L17.9996689,10.3042493 C16.8587137,10.555326 16,11.6481912 16,12.9583333 C16,14.2684755 16.8587137,15.3613407 17.9996689,15.6124174 L18,17 C18,18.1045695 17.1045695,19 16,19 L2,19 C0.8954305,19 -1.0686249e-13,18.1045695 -1.06997744e-13,17 L-0.000449078819,15.6125889 C1.14089482,15.3618388 2,14.2687741 2,12.9583333 C2,11.6478926 1.14089482,10.5548278 -0.000449078819,10.3040778 L-1.06997744e-13,8 C-1.07132998e-13,6.8954305 0.8954305,6 2,6 L16,6 Z" id="形状结合" stroke="#666666" stroke-width="1.5"></path>
+                        <rect id="矩形" stroke="#999999" x="6.5" y="10.5" width="5" height="1" rx="0.5"></rect>
+                        <rect id="矩形备份-12" stroke="#999999" x="6.5" y="14.5" width="5" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-530.000000, -264.000000)">
+            <g id="编组" transform="translate(54.000000, 264.000000)">
+                <g id="icon/选框/复制" transform="translate(476.000000, 0.000000)">
+                    <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="23" height="23"></rect>
+                    <rect id="矩形备份-12" stroke="#666666" stroke-width="1.5" fill="#FFFFFF" x="8.75" y="3.75" width="10.5" height="12.5" rx="2"></rect>
+                    <rect id="矩形" stroke="#666666" stroke-width="1.5" fill="#FFFFFF" x="4.75" y="7.75" width="10.5" height="12.5" rx="2"></rect>
+                    <rect id="矩形" fill="#666666" x="7" y="11.5" width="6" height="1.5" rx="0.75"></rect>
+                    <rect id="矩形备份-13" fill="#666666" x="7" y="15" width="6" height="1.5" rx="0.75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

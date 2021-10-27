@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-616.000000, -492.000000)">
+            <g id="2" transform="translate(616.000000, 492.000000)">
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M18.363961,18.363961 C16.7352814,19.9926407 14.4852814,21 12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,13.2202665 20.7571475,14.3838117 20.3171374,15.4449407 L18,14" id="路径" stroke="#666666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M15,9.17157288 C14.2579545,8.44771525 13.2328283,8 12.1005051,8 C9.83585865,8 8,9.790861 8,12 C8,14.209139 9.83585865,16 12.1005051,16 C13.2328283,16 14.2579545,15.5522847 15,14.8284271" id="路径" stroke="#999999" stroke-width="1.5" stroke-linecap="round"></path>
+                <rect id="矩形" stroke="#999999" stroke-width="1.5" x="11.75" y="7.25" width="1" height="9.5" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

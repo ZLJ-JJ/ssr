@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-994.000000, -492.000000)">
+            <g id="我的-列表icon" transform="translate(616.000000, 492.000000)">
+                <g id="icon/我的/话费充值" transform="translate(378.000000, 0.000000)">
+                    <g id="icon-3" fill="#000000" fill-rule="nonzero" opacity="0">
+                        <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                    <rect id="矩形" stroke="#666666" stroke-width="1.5" x="4" y="3" width="16" height="18" rx="2"></rect>
+                    <rect id="矩形备份" stroke="#999999" stroke-width="1.5" x="7" y="6" width="10" height="9" rx="1"></rect>
+                    <rect id="矩形" fill="#999999" x="9" y="17.5" width="6" height="1.5" rx="0.75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

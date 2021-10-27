@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/喜欢</title>
+    <defs>
+        <radialGradient cx="50%" cy="6.56712652%" fx="50%" fy="6.56712652%" r="110.345998%" gradientTransform="translate(0.500000,0.065671),scale(0.500000,1.000000),rotate(90.000000),translate(-0.500000,-0.065671)" id="radialGradient-1">
+            <stop stop-color="#FF6767" offset="0%"></stop>
+            <stop stop-color="#FFD5D5" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="18.6428368%" y1="28.1535333%" x2="123.13852%" y2="115.259519%" id="linearGradient-2">
+            <stop stop-color="#EA4638" offset="0%"></stop>
+            <stop stop-color="#D31027" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.9729051%" y1="22.5900782%" x2="81.4050032%" y2="79.2095525%" id="linearGradient-3">
+            <stop stop-color="#FD777A" offset="0%"></stop>
+            <stop stop-color="#FA2022" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.20101013,2.1895535 C3.80235696,0.603482166 6.39865316,0.603482166 8,2.1895535 C9.60134684,0.603482166 12.197643,0.603482166 13.7989899,2.1895535 C15.4003367,3.77562484 15.4003367,7.02405284 13.7989899,8.61012417 C12.7314253,9.66750506 10.7984287,11.130797 8,13 L7.28960685,12.5215896 C4.87194189,10.8793807 3.17574298,9.5755589 2.20101013,8.61012417 C0.599663291,7.02405284 0.599663291,3.77562484 2.20101013,2.1895535 Z" id="path-4"></path>
+    </defs>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-1171.000000, -518.000000)">
+            <g id="title" transform="translate(1123.000000, 516.000000)">
+                <g id="icon/喜欢" transform="translate(48.000000, 2.000000)">
+                    <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <ellipse id="椭圆形" fill="url(#radialGradient-1)" cx="8" cy="12.5" rx="7" ry="3.5"></ellipse>
+                    <g id="路径">
+                        <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

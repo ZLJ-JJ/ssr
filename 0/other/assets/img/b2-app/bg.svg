@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="190px" viewBox="0 0 375 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="190"></rect>
+    </defs>
+    <g id="4-我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill="#2F80ED" xlink:href="#path-1"></use>
+            <path d="M188.399462,175 C40.1665323,175 -80,55.4887875 -80,-91.9357643 C-80,-221.063169 12.1893469,-328.77602 134.680093,-353.523874 L134.988305,91.4781714 M186.600538,-360 C334.833468,-360 455,-240.425588 455,-92.9230752 C455,35.7924848 363.494585,143.241122 241.684283,168.523874 L241.355372,-275.096948 M188.759247,-226.160054 L188.759247,38.2817754" id="形状备份" stroke="#FFFFFF" stroke-width="36" opacity="0.200000003" style="mix-blend-mode: soft-light;" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

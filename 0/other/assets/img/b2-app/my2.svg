@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-832.000000, -492.000000)">
+            <g id="我的-列表icon" transform="translate(616.000000, 492.000000)">
+                <g id="icon-3" transform="translate(216.000000, 0.000000)">
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <circle id="椭圆形" stroke="#666666" stroke-width="1.5" cx="12" cy="12" r="8"></circle>
+                    <path d="M8.46446609,15.5355339 C8.92502294,15.9960907 9.47500978,16.3672176 10.086144,16.6206319 C10.6756602,16.8650819 11.3220742,17 12,17 C12.6779258,17 13.3243398,16.8650819 13.913856,16.6206319 C14.5249902,16.3672176 15.0749771,15.9960907 15.5355339,15.5355339" id="路径" stroke="#999999" stroke-width="1.5" stroke-linecap="round"></path>
+                    <line x1="15" y1="9" x2="15" y2="10" id="路径-16备份" stroke="#999999" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="9" y1="9" x2="9" y2="10" id="路径-16" stroke="#999999" stroke-width="1.5" stroke-linecap="round"></line>
+                    <path d="M22.7906403,14.146707 C22.9279888,13.4524064 23,12.7346127 23,12 C23,11.0184966 22.8714516,10.0670174 22.6302725,9.16147986 C22.4562494,8.50808837 22.2235868,7.87861581 21.9382643,7.27904188 M2.05453058,7.29421269 C1.76935771,7.89584877 1.53716927,8.52748831 1.36399169,9.18310489 C1.1265108,10.0821613 1,11.0263065 1,12 C1,12.7346127 1.07201119,13.4524064 1.20935968,14.146707" id="形状" stroke="#666666" stroke-width="1.5" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

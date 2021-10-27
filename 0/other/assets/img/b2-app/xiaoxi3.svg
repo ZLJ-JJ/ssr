@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="7-切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-778.000000, -492.000000)">
+            <g id="我的-列表icon" transform="translate(616.000000, 492.000000)">
+                <g id="5" transform="translate(162.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" xlink:href="#path-1"></use>
+                    <g id="编组-4" mask="url(#mask-2)">
+                        <g transform="translate(-3.000000, -1.000000)" id="形状结合">
+                            <path d="M14.2071068,3.5 C19.1776695,3.5 23.2071068,7.52943725 23.2071068,12.5 C23.2071068,16.6144811 20.4461257,20.0841006 16.6758231,21.1571989 L14.9142136,23.6213203 L13.3716322,21.4617352 C8.79275754,21.0402483 5.20710678,17.188861 5.20710678,12.5 C5.20710678,7.52943725 9.23654403,3.5 14.2071068,3.5 Z" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" transform="translate(14.207107, 13.560660) rotate(-315.000000) translate(-14.207107, -13.560660) "></path>
+                            <path d="" stroke="#999999" stroke-width="1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

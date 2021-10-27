@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-4</title>
+    <defs>
+        <linearGradient x1="20.8222581%" y1="16.5485968%" x2="65.2834545%" y2="84.7235063%" id="linearGradient-1">
+            <stop stop-color="#0091FF" offset="0%"></stop>
+            <stop stop-color="#2F80ED" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-2" points="13.6281994 19.2628419 18.6281994 19.2628419 18.6281994 12.2628419"></polyline>
+        <filter x="-155.0%" y="-82.1%" width="410.0%" height="321.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.75" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.106752132   0 0 0 0 0.436006029   0 0 0 0 0.879076087  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="4-我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-0-1我的" transform="translate(-305.000000, -298.000000)">
+            <g id="2" transform="translate(12.000000, 237.000000)">
+                <g id="icon-4" transform="translate(293.000000, 61.000000)">
+                    <rect id="bg" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="31" height="31"></rect>
+                    <path d="M8,6 L24,6 C26.209139,6 28,7.790861 28,10 L28,24 C28,26.209139 26.209139,28 24,28 L8,28 C5.790861,28 4,26.209139 4,24 L4,10 C4,7.790861 5.790861,6 8,6 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <path d="M10,6 L22,6 L22,7.5 C22,8.32842712 21.3284271,9 20.5,9 L11.5,9 C10.6715729,9 10,8.32842712 10,7.5 L10,6 L10,6 Z" id="矩形" fill="#FFFFFF"></path>
+                    <g id="路径-4" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.128199, 15.762842) rotate(-315.000000) translate(-16.128199, -15.762842) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use stroke="#FFFFFF" stroke-width="1.5" xlink:href="#path-2"></use>
+                    </g>
+                    <rect id="矩形" fill="#0091FF" x="11.5" y="6" width="9" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
